@@ -1,0 +1,12 @@
+{
+  "name": "training-icu-proxy",
+  "version": "1.0.0",
+  "description": "trAIning Intervals.icu API Proxy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
